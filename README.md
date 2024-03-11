@@ -1,0 +1,1 @@
+# wails-svletekit-ts-tailwind-template
